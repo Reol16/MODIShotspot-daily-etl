@@ -1,1 +1,1 @@
-# MODIShotspot-daily-etl
+docker-compose build, docker-compose up airflow-init, docker-compose up
